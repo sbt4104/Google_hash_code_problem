@@ -3,8 +3,11 @@
 input format
 
 first line contains 4 space separated integers
-rows,columns,min,max
-next rows line contains a string of length columns
+row,columns,min,max
+
+
+
+next row line contains a string of length columns
 
 example
 3 5 1 6

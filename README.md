@@ -1,6 +1,6 @@
 # Google_hash_code_problem
 
-give input int the following format
+input format
 
 first line contains 4 space separated integers
 rows,columns,min,max
